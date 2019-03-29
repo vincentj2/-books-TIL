@@ -1,11 +1,8 @@
 # TIL-books-
 :books:
 ## Plan  
-- **Programming Language**
-  - [x] [C++]()  
+  - [] [C++]()  
+  - [] [Algorithm](Algorithm/)  
   - [ ] [Python]()  
   - [ ]  [Javascript]()
-
-_____
-  - [ ]  [OpenCV](OpenCV/)  
-  - [x]  [Algorithm](Algorithm/)  
+  - []  [Algorithm](Algorithm/)  
