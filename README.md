@@ -7,5 +7,5 @@
   - [ ]  [Javascript]()
 
 _____
-- [ ]  [OpenCV](OpenCV/)  
-- [x]  [Algorithm](Algorithm/)  
+  - [ ]  [OpenCV](OpenCV/)  
+  - [x]  [Algorithm](Algorithm/)  
