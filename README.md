@@ -1,10 +1,9 @@
 # TIL
 :books:
 ## Plan  
-  - [ ] [C++]()  
+  - [ ] [C++](C++/)  
   - [ ] [Algorithm](Algorithm/)  
-  - [ ] [Python]()  
-  - [ ] [Django]()
-  - [ ] [Javascript]()
-  - [ ] [Algorithm](Algorithm/)  
- 
+  - [ ] [Python](Python/)  
+  - [ ] [Django](Django/)
+  - [ ] [Javascript](Javascript)
+  
