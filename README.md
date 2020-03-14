@@ -2,8 +2,8 @@
 :books:
 ## Plan  
   - [ ] [Spring](Spring/)
+  - [ ] [JAVA](JAVA/)
   - [ ] [C++](C++/)  
   - [ ] [Algorithm](Algorithm/)  
-  - [ ] [JAVA](JAVA/)
-  - [ ] [Javascript](Javascript)
+  - [ ] [Javascript](Javascript/)
   
