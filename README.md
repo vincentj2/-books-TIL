@@ -1,9 +1,9 @@
 # TIL
 :books:
 ## Plan  
+  - [ ] [Spring](Spring/)
   - [ ] [C++](C++/)  
   - [ ] [Algorithm](Algorithm/)  
-  - [ ] [Python](Python/)  
-  - [ ] [Django](Django/)
+  - [ ] [JAVA](JAVA/)
   - [ ] [Javascript](Javascript)
   
